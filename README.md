@@ -2,9 +2,6 @@
 
 The implement of "Fast Semantic Matching via Flexible Contextualized Interaction"
 
-1. [Model](#Model)
-2. [Dataset](#Dataset)
-
 ## Model
 ![Imgur](https://i.imgur.com/B4KTwRj.png)
 ### Requirements
